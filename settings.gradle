@@ -1,3 +1,4 @@
+include ':legacy'
 include ':thirdparty'
 include ':app'
 rootProject.name = "HeadFirstAndroidX"
